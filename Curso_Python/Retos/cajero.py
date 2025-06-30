@@ -18,6 +18,8 @@ def cajero():
         print("3. Retirar")
         print("4. Salir")
 
+        
+
         opcion = input("Seleccione una opción (1-4): ")
 
         if opcion == "1":
