@@ -3,12 +3,9 @@
 #print(lista[4])
 
 
-diccionario = {
-    'nombre': "Jesus Guzman",
-    'canal' : "Soy Jesus",
-    'esta_emocionado': True,
-    'altura': 1.67,
-    'dato_multiplicado': "Soy Jesus"
+libro = {
+    'Titulo': "Cien años de soledad",
+    'Author' : "Gabriel García Márquez"
 }
 
-print(diccionario["altura"] + 4)
+print(libro)
